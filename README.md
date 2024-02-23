@@ -1,6 +1,6 @@
 # Ola! Eu sou o Gabriel Cardoso
 - 💻Trabalhando como desenvolvedor fullstack
-- 📘Estudando NextJs
+- 📘Estudando NextJs, NestJs e PostgreSQL
 
 <div width="100%">
 <picture>
