@@ -28,6 +28,6 @@
 </div>
 
 <div> 
-  <a href="www.linkedin.com/in/gabriel-cardoso-a551b5197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href=/gabriel-cardoso-a551b5197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </div>
           
