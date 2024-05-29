@@ -1,6 +1,6 @@
 # Ola! Eu sou o Gabriel Cardoso
-- 💻Trabalhando como desenvolvedor fullstack
-- 📘Estudando NextJs, NestJs e PostgreSQL
+- 💻 Trabalho com React + Node a mais de 3 anos
+- 📘 Atualmente estudando algumas ferramentas como: NestJs, Jest e Typescript
 
 <div width="100%">
 <picture>
